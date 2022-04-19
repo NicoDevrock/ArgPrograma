@@ -1,0 +1,46 @@
+body{
+    background:#009688;
+}
+header{
+    padding: 66px;
+    width: 100%;
+    background: #9E9E9E;
+    background-size: cover; 
+    border-radius: 42px; 
+}
+.logo{
+    width: 200px;
+    float: right;
+}
+section #perfil{
+    width: 19%;
+    border-radius: 62%;
+    margin-top: -102px;
+}
+.row div:nth-child(1) p{
+    margin-top: -13px;
+}
+.row div:nth-child(1) h6{
+    margin-top: -15px;
+}
+div .top{
+    border: solid 1px darkgray;
+    border-radius: 11px;
+    margin-top: 10px;
+}
+div .nico{
+    text-shadow: 7px 7px 7px;
+}
+div .experiencia{
+    border: solid 1px darkgray;
+    border-radius: 11px;
+    margin-top: 10px;
+}
+div .experiencia img{
+    width: 3%;
+}
+div .footer img{
+    width: 20%;
+    margin-left: 110px;
+    margin-top: 20px;
+}
